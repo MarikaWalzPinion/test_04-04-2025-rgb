@@ -1,0 +1,6 @@
+/home/marikawalzpinion/Programs/test_04-04-2025-rgb/build/Debug/CMakeFiles/test_04-04-2025-rgb.dir
+/home/marikawalzpinion/Programs/test_04-04-2025-rgb/build/Debug/CMakeFiles/edit_cache.dir
+/home/marikawalzpinion/Programs/test_04-04-2025-rgb/build/Debug/CMakeFiles/rebuild_cache.dir
+/home/marikawalzpinion/Programs/test_04-04-2025-rgb/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/home/marikawalzpinion/Programs/test_04-04-2025-rgb/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/marikawalzpinion/Programs/test_04-04-2025-rgb/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
